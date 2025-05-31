@@ -23,7 +23,7 @@ mkdir unzipped_dir && unzip test_dir.zip -d unzipped_dir
 
 5. Downloading Files
 
-wget https://example.com/sample.txt
+wget https://raw.githubusercontent.com/anil523359/tutedude/refs/heads/main/linux_assignment%20/1st_assignment.txt
 
 
 6. Changing Permissions
